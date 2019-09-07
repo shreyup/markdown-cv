@@ -7,7 +7,7 @@ Content creator, Data analyst, Script kiddie.
 
 <div id="webaddress">
 <a href="shreyamenon2803@gmail.com">shreyamenon2803@gmail.com</a>
-| <a href="https://shreyup.github.io/resume/">This resume</a>
+| <a href="https://shreyup.github.io/resume/">Link to this resume</a>
 </div>
 
 
