@@ -2,7 +2,7 @@
 layout: cv
 title: Shreya S. Menon's Resume
 ---
-# Isaac Newton
+# Shreya S. Menon
 Content creator, Data analyst, Script kiddie.
 
 <div id="webaddress">
